@@ -1,4 +1,13 @@
 
+###############################################################################
+#                                                                             #        
+#                   IMPORTING AND TIDYING                                     #  
+#             MALAWIAN FOOD COMPOSITION TABLE, 2019                           # 
+#                                                                             #   
+#                                                                             #   
+###############################################################################
+
+#Installing packages
 
 #install.packages("tabulizer")
 #install.packages("shiny")
@@ -59,7 +68,7 @@ mwi_table[[2]]
 mwi_table_clean <- reduce(mwi_table, bind_rows) %>% select(1:16)
 
 
-##2) TIDYING MAFOODS INTO A LONG DATA.FRAME
+##2) TIDYING MAFOODS INTO A WIDE DATA.FRAME
 
 
 #extracting variable names from fct
