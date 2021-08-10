@@ -22,14 +22,13 @@ library(tidyverse)
 ##1) IMPORT MALAWI FCT FROM FAO/INFOODS 
 
 
-
 #PDF loaded into R 
 
 t <-  "https://dl.tufts.edu/downloads/g158bw806?filename=d217r336d.pdf"
 
 #Identifying the area of the food compo tables in the pdf file 
 
-#f <- locate_areas(t, pages = c(21,56))
+f <- locate_areas(t, pages = c(21,56))
 
 #Extracting fct from all pages in the pdf
 
@@ -213,9 +212,7 @@ mwi_clean <- mwi_clean %>% dplyr::filter(!code %in% mafoods_water) %>%
 
 variables <- read.csv(here::here("metadata", "fct-variable-names.csv"))
 
-
-dictionary <- read.csv(here::here("metadata", 
-                                "MAPS_Dictionary_v2.5.csv"))
+source("dictionary.R")
 
 dictionary %>% filter(ID_3 == "01520.01.03")
 
