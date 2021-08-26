@@ -227,7 +227,7 @@ MAPS_wafct<- wafct %>%
 
 MAPS_wafct %>% 
   readr::write_excel_csv(., 
-      here::here('output', 'MAPS_WAFCT_v1.2.csv'), #that f(x) is to 
-       row.names = FALSE)                #deal w/ special characters 
+      here::here('output', 'MAPS_WAFCT_v1.2.csv')) #that f(x) is to 
+                 #deal w/ special characters 
 
 

@@ -230,6 +230,7 @@ rename(
 
 MAPS_ken %>% head()
 
+MAPS_ken %>%
 readr::write_excel_csv(., 
-                       here::here('output', 'MAPS_KENFCT_v1.2.csv'), #that f(x) is to 
-                       row.names = FALSE)   
+                       here::here('output', 'MAPS_KENFCT_v1.2.csv')) #that f(x) is to 
+                                              #deal w/ special characters 

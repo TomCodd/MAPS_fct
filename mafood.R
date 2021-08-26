@@ -341,3 +341,7 @@ left_join(., mwi_genus, by = c("code" = "ref_fctcode")) %>%
   phyticacid_in_mg = "PHYT") %>% 
   select(var.name)
 
+MAPS_mwi %>% 
+  readr::write_excel_csv(., 
+                       here::here('output', 'MAPS_MAFOODS_v1.2.csv')) #that f(x) is to 
+                            #deal w/ special characters 
