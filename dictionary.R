@@ -1,7 +1,12 @@
 
 ####### GENERATING AND UPDATING THE DICTIONARY ENTRIES ############
 
-# Loading the most recent version of the dictionary -----
+# Loading packages
+library(tidyverse)
+
+# Loading the old dictionary -----
+
+str_subset(list.files(here::here("metadata")), "MAPS_Dictionary")
 
 dictionary.df <- read.csv(here::here("metadata", "MAPS_Dictionary_v2.6.csv")) %>% 
   select(-starts_with("X"))
@@ -1212,3 +1217,6 @@ dictionary.df[n1,7] <- paste0(id2, ".01")
 dictionary.df[n1,8] <- NA
 dictionary.df[n1,9] <- "cassava, root, dried, raw"
 dictionary.df[n1,13] <- "manihot esculenta"
+
+write.csv(dictionary.df, here::here("metadata", "MAPS_Dictionary_v2.7.csv"),
+          row.names =F)

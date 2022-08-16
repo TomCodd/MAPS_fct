@@ -1,0 +1,754 @@
+"ID_0","FoodName_0","ID_1","FoodName_1","ID_2","FoodName_2","ID_3","FE2_3","FoodName_3","Description1","Desc1.ref","Description2","scientific_name","Desc1.ref2"
+"CE","Cereals",2511,"wheat and products","111","wheat","111.01","A001N#F10.A06HR","wheat grain, unrefined","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","111","wheat","111.02","A001N#F10.A07XK","wheat grain, refined","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23110","wheat and meslin flour ","23110.01","A004B#F02.A067Z$F27.A001M$F28.A0C0A$F10.A06HR$F03.A06JD","wheat flour, unrefined","Flour of Wheat: Defined broadly to include meal, groats and pellets. Strong flours from hard wheat are used for bread, while durum wheat flour is used primarily for pasta. Weaker flours from soft wheat are mainly used in cakes, pastries, biscuits and certain noodles.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2511,"wheat and products","23110","wheat and meslin flour ","23110.02","A003Y#F02.A067Z$F27.A001M$F28.A0C0A$F10.A07XK$F03.A06JD","wheat flour, refined","Flour of Wheat: Defined broadly to include meal, groats and pellets. Strong flours from hard wheat are used for bread, while durum wheat flour is used primarily for pasta. Weaker flours from soft wheat are mainly used in cakes, pastries, biscuits and certain noodles.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2511,"wheat and products","23180","mixes and doughs for the preparation of bakers' wares","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23710","uncooked pasta, not stuffed or otherwise prepared","23710.01","A007L#F28.A07HS","pasta, dried, raw","default pasta (spaghetti)","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23140.01","germ of wheat [only calories)","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23140.02","bulgur","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23140.03","breakfast cereals","23140.03.01","A00EM#F02.A068E$F27.A000L$F28.A07LG","breakfast cereal, flakes","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23140.03","breakfast cereals","23140.03.02","A00EL#F02.A06DZ$F04.A000L","breakfast cereals, muesli mix","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23220.01","starch of wheat ","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23220.02","wheat gluten [only calories]","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23490.01","communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","23999.02","food preparations of flour, meal or malt extract","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","39120.01","bran of wheat [only calories]","","","","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0020","bread","F0020.01","A004Y#F02.A06CN$F04.A001M$F10.A07XK","bread, wheat flour, refined","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0020","bread","F0020.02","A005E#F02.A06CN$F04.A001M$F10.A06HR","bread, wheat flour, unrefined","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.01","A00BL#F02.A06DQ$F28.A07GX$F12.A008L","buns","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.02","A00CM#F02.A06DT$F28.A0BA1","scones","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.03","A009X#F02.A06DN","biscuits, sweet, plain","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.04","A16FY#F02.A06DQ$F28.A07GR$F12.A008L","dough, sweet, fried","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.05","A16FH#F04.A03YD","samosa, vegetable","","","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.06","A16FH#F04.A01TQ","samosa, meat","","Lamb/beef","",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.07","A00BA#F04.A01LC","cake, banana","","","",NA,NA
+"CE","Cereals",2805,"rice and products","113","rice","","","","Rice, paddy: Rice grain after threshing and winnowing.Also known as rice in the husk and rough rice. Used mainly for human food.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","23162","husked rice","","","","Rice, Husked: Rice grain without hulls or husks. Also known as brown or cargo rice.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","23120.01","flour of rice","23120.01.01","A003F#F10.A0F2R","rice flour, white","","","",NA,NA
+"CE","Cereals",2806,"rice and products","23121.01","flour of rice","23120.01.02","A003F#F10.A0F5H","rice flour, yellow","","","",NA,NA
+"CE","Cereals",2805,"rice and products","23161.01","rice, milled (husked) ","23161.01.01","A001D#F28.A07HS$F10.A0F2R","rice grain, imported, white, raw","Rice, Milled (Husked): White rice milled from imported husked rice. Includes semi-milled, whole-milled and parboiled rice.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","23161.02","rice, milled ","23161.02.01","A001D#F28.A07HS$F10.A0F2R","rice grain, local, white, raw","Rice, Milled: White rice milled from locally grown paddy. Includes semi-milled, whole-milled and parboiled rice.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","23161.03","rice, broken","","","","Rice, Broken: Residues from the selection of whole-grain, milled rice.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","23220.03","starch of rice ","","","","Starch of Rice: See 0023 Rice starch is usually obtained from broken rice. Use primarily in the photographic industry to prepare ""matt"" paper.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","39120.02","bran of rice [only calories]","","","","Bran of Rice: A by-product of polishing brown rice, comprising the pericarp, aleurone layer, embryo and some endosperm.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2805,"rice and products","39130.01","rice, gluten [only calories]","","","","Rice, Gluten: A by-product of the industrial production of starch. Not suitable for food use.","FAOSTAT Commodity List (FCL)","",NA,NA
+"CE","Cereals",2513,"barley and products","115","barley","","","","","","",NA,NA
+"CE","Cereals",2513,"barley and products","24320","malt, whether or not roasted","","","","","","",NA,NA
+"CE","Cereals",2513,"barley and products","23120.02","barley flour and grits [only calories]","","","","","","",NA,NA
+"CE","Cereals",2513,"barley and products","23140.04","pot barley ","","","","","","",NA,NA
+"CE","Cereals",2513,"barley and products","23140.05","barley, pearled","23140.05.01","A002K#F02.A066Q$F01.A059D$F27.A000P$F28.A0BZV","barley grain, pearled","","","",NA,NA
+"CE","Cereals",2513,"barley and products","23999.01","malt extract","","","","","","",NA,NA
+"CE","Cereals",2513,"barley and products","39120.03","bran of barley [only calories]","","","","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","112","maize (corn)","112.01","A000T#F28.A07HS$F28.A07KG$F10.A0F2R","maize, grain, white, dried, raw","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","112","maize (corn)","112.02","A000T#F28.A07HS$F28.A07KG$F10.A0F5H","maize, grain, yellow, dried, raw","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","112","maize (corn)","112.03","A00DC","popcorn","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","23120.03","flour of maize","23120.03.01","A002Q#F28.A07HS$F10.A0F2R$F10.A06HR","maize, flour, white, unrefined, non-fermented, raw","","","No code for 'non-fermented'",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","23120.03","flour of maize","23120.03.02","A002Q#F28.A07HS$F10.A0F2R$F10.A07XK","maize, flour, white, refined, non-fermented, raw","","","No code for 'non-fermented'",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","23140.06","germ of maize [only calories]","","","","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","23220.04","starch of maize","","","","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","39120.04","bran of maize [only calories]","39120.04.01","A002C#F27.A000T$F28.A0C0A$F28.A07HS$F03.A06JD","maize bran, flour, raw ","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","39130.02","maize gluten [only calories]","","","","","","",NA,NA
+"CE","Cereals",2514,"maize and products (including white maize)","39130.04","gluten feed and meal","","","","","","",NA,NA
+"CE","Cereals",2515,"rye and products","116","rye","116.01","A001K#F28.A07HS$F10.A06HR","rye grain, unrefined, raw ","","","",NA,NA
+"CE","Cereals",2515,"rye and products","23120.04","flour of rye","","","","","","",NA,NA
+"CE","Cereals",2515,"rye and products","39120.05","bran of rye [only calories]","","","","","","",NA,NA
+"CE","Cereals",2516,"oats and products","117","oats","","","","","","",NA,NA
+"CE","Cereals",2516,"oats and products","23140.07","oats, rolled","23140.07.01","A00DH#F02.A068G$F27.A000G$F28.A07LH","oats, rolled","","","",NA,NA
+"CE","Cereals",2516,"oats and products","39120.06","bran of oats [only calories]","","","","","","",NA,NA
+"CE","Cereals",2517,"millet and products","118","millet","118.01","A001B#F02.A066Q$F01.A059M$F27.A001B","millet, grain","","","",NA,NA
+"CE","Cereals",2517,"millet and products","118","millet","118.02","A000B#F02.A066Q$F01.A059N$F27.A000B","finger millet,  grain","","","",NA,NA
+"CE","Cereals",2517,"millet and products","118","millet","118.03","A001A#F02.A066Q$F01.A059L$F27.A001A","pearl millet,  grain","","","",NA,NA
+"CE","Cereals",2517,"millet and products","23120.05","flour of millet","","","","","","",NA,NA
+"CE","Cereals",2517,"millet and products","39120.07","bran of millet [only calories]","","","","","","",NA,NA
+"CE","Cereals",2518,"sorghum and products","114","sorghum","114.01","A001L#F28.A07HS","sorghum grain, raw","","","",NA,NA
+"CE","Cereals",2518,"sorghum and products","23120.06","flour of sorghum","","","","","","",NA,NA
+"CE","Cereals",2518,"sorghum and products","39120.08","bran of sorghum [only calories]","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1191","triticale","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1192","buckwheat","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1193","fonio","1193.01","A0CGK#F28.A07HS$F10.A06HR","fonio grain, black, unrefined, raw","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1193","fonio","1193.02","A0CGK#F28.A07HS$F10.A07XK","fonio grain, black, refined, raw","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1193","fonio","1193.03","A001Z#F28.A07HS$F10.A06HR","fonio grain, white, unrefined, raw","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1193","fonio","1193.04","A001Z#F28.A07HS$F10.A07XK","fonio grain, white, refined, raw","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1194","quinoa","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1195","canary seed","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1199.02","mixed grain","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","1199.9","other cereals n.e.c.","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","23120.07","flour of buckwheat","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","23120.08","flour of fonio","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","23120.09","flour of triticale","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","23120.1","flour of mixed grain","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","23120.9","flour of cereals nes","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","23140.08","cereal preparations","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","39120.09","bran of buckwheat [only calories]","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","39120.1","bran of fonio [only calories]","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","39120.11","bran of triticale [only calories]","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","39120.12","bran of mixed grain [only calories]","","","","","","",NA,NA
+"CE","Cereals",2520,"cereals, other and products","39120.13","bran of cereals nes [only calories]","","","","","","",NA,NA
+"RT","Roots and Tubers",2531,"potatoes and products","1510","potatoes","1510.01","A00ZT#F28.A07HS","potatoes, raw","","","",NA,NA
+"RT","Roots and Tubers",2531,"potatoes and products","1510","potatoes","1510.02","A0BYS#F02.A0EPT$F28.A07GV$F28.A07KV$F04.A00ZT","potato, crisps","","","",NA,NA
+"RT","Roots and Tubers",2531,"potatoes and products","21313","potatoes, frozen","","","","","","",NA,NA
+"RT","Roots and Tubers",2531,"potatoes and products","21392","flour, meal, powder, flakes, granules and pellets of potatoes","","","","","","",NA,NA
+"RT","Roots and Tubers",2531,"potatoes and products","23220.05","starch of potatoes","","","","","","",NA,NA
+"RT","Roots and Tubers",2531,"potatoes and products","23230.01","tapioca of potatoes","","","","","","",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.01","A010C#F28.A07HS$F10.A0F2R","sweet potato, white-flesh, raw","Nutritional disaggregation","","vitamin A",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.02","A010C#F28.A07HS$F10.A0F5J","sweet potatoes, orange-flesh, raw","Nutritional disaggregation","","vitamin A",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.03","A010C#F28.A07HS$F10.A16ZX","sweet potatoes, purple-flesh, raw","Nutritional disaggregation","","vitamin A",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.04","A010C#F28.A07GL$F10.A0F2R","sweet potato, white-flesh, boiled","","","",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.05","A010C#F28.A07GY$F10.A0F2R","sweet potato, white-flesh, roasted","","","",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.06","A010C#F28.A07GL$F10.A0F5J","sweet potatoes, orange-flesh, boiled","","","",NA,NA
+"RT","Roots and Tubers",2533,"sweet potatoes and products","1530","sweet potatoes","1530.07","A010C#F28.A07GY$F10.A0F5J","sweet potatoes, orange-flesh, roasted","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","1520.01","cassava, fresh","01520.01.01","A00ZZ#F28.A07HS","cassava root, raw","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","1520.01","cassava, fresh","01520.01.02","A00ZZ#F28.A07GL","cassava root, boiled","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","1520.01","cassava, fresh","01520.01.03","A00ZZ#F28.A07GY","cassava root, roasted","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","1520.02","cassava, dried","","","","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","23170.01","flour of cassava","23170.01","A16RD#F27.A00ZZ$F28.A07HS$F28.A07LA$F03.A06JD","cassava, flour, raw","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","23220.06","starch of cassava","","","","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","23230.02","tapioca of cassava","","","","","","",NA,NA
+"RT","Roots and Tubers",2535,"yams and products","1540","yams","1540.01","A010D#F28.A07HS","yams, raw","","","",NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","1550","taro ","1550.01","A010B#F28.A07HS","taros, raw","","","",NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","1591","yautia ","1591.01","A010A#F28.A07HS","yautia, raw","Also called tannias","","",NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","1599.1","edible roots and tubers with high starch or inulin content, n.e.c., fresh","","","","","","",NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","1599.2","edible roots and tubers with high starch or inulin content, n.e.c., dry","","","","","","",NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","23170.02","flour of roots and tubers nes","","","","","","",NA,NA
+"OT","Other foods",2536,"sugar cane and products","1802","sugar cane","1802.01","A010V#F02.A0ELH$F01.A05QL$F27.A010V","sugar canes","","","",NA,NA
+"OT","Other foods",2537,"sugar beet and products","1801","sugar beet","1801.01","A010T#F28.A07HS","beetroots, sugar, raw","","","",NA,NA
+"OT","Other foods",2541,"sugar non-centrifugal and products","23511.02","cane sugar, non-centrifugal","23511.02.01","A033Z#F27.A010V","sugar, from unrefined sugar cane","Sugar, Non-Centrifugal: Generally derived from sugar cane through traditional methods without centrifugation.","FAOSTAT Commodity List (FCL)","jaggery, panela, raw sugar",NA,"https://doi.org/10.1016/j.foodchem.2017.01.134"
+"OT","Other foods",2542,"sugar (raw equivalent) and products","23512","beet sugar","","","","","","",NA,NA
+"OT","Other foods",2542,"sugar (raw equivalent) and products","23520","refined sugar","23520.01","A032J#F02.A0EPY$F28.A0C04$F28.A0BZT$F10.A07XK","sugar, white","Sugar, Refined: Production covers domestic production, plus or minus imports and/or exports of raw centrifugal sugar in terms of refined sugar.","FAOSTAT Commodity List (FCL)","",NA,NA
+"OT","Other foods",2542,"sugar (raw equivalent) and products","23511.01","cane sugar, centrifugal","","","","","","",NA,NA
+"OT","Other foods",2542,"sugar (raw equivalent) and products","2351F","raw cane or beet sugar (centrifugal only)","","","","","","",NA,NA
+"OT","Other foods",2542,"sugar (raw equivalent) and products","23670.01","sugar confectionery","23670.01.01","A034X#F02.A06EP$F04.A032H$F04.A033R$F10.A0CJP","candies, hard","","","",NA,NA
+"OT","Other foods",2542,"sugar (raw equivalent) and products","23670.01","sugar confectionery","23670.01.02","A036K#F02.A06ES$F04.A03DK","flavoured ice","","","",NA,NA
+"OT","Other foods",2745,"honey and products","2910","natural honey","2910.01","A033M#F02.A06EF$F01.A04TG$F27.A033M$F28.A0CRJ","honey","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","1809","other sugar crops n.e.c.","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23530","refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23540","molasses (from beet, cane and maize) [only calories]","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","24490","other non-alcoholic caloric beverages n.e.c","24490.01","A03GE#F02.A0F0Q$F28.A07KF","sugar sweetned beverage, concentrate","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","24490","other non-alcoholic caloric beverages n.e.c","24490.02","A03FR#F02.A0ENS$F10.A0CQG","sugar sweetned beverage, cola","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.01","fructose, chemically pure","23210.01.01","A032T#F03.A06JD","fructose, powder","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.02","maltose, chemically pure","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.03","other fructose and syrup","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.04","sugar and syrups nes","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.05","glucose and dextrose","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.06","lactose","","","","","","",NA,NA
+"OT","Other foods",2543,"sweeteners, other and products","23210.08","isoglucose","","","","","","",NA,NA
+"PB","Pulses and Beans",2546,"beans and products","1701","beans, dry","1701.01","A012S#F28.A07HS","beans, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2546,"beans and products","1701","beans, dry","1701.02","A012T#F28.A07HS","common beans, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2546,"beans and products","1701","beans, dry","1701.03","A012V#F28.A07HS","kidney beans, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2547,"peas and products","1705","peas, dry","1705.01","A013J#F28.A07HS","peas, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1702","broad beans and horse beans, dry","","","","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1703","chick peas, dry","","","","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1704","lentils, dry","1704.01","A013Q#F28.A07HS","lentils, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1706","cow peas, dry","1706.01","A013N#F28.A07HS","cow peas, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1706","cow peas, dry","1706.02","A013N#F28.A07HS","black eye peas, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1707","pigeon peas, dry","1707.01","A013P#F28.A07HS","pigeon peas, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1708","bambara beans, dry","1708.01","A013R#F28.A07HS","bambara bean, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1709.01","vetches","","","","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1709.02","lupins ","","","","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1709.9","other pulses n.e.c.","","","","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","23170.03","flour of pulses","","","","","","",NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","39120.14","bran of pulses [only calories]","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1371","almonds, in shell","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1372","cashew nuts, in shell","1372.01","A014H#F02.A066R$F01.A05QR$F27.A014H","cashew nuts","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1373","chestnuts, in shell","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1374","hazelnuts, in shell","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1375","pistachios, in shell","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1376","walnuts, in shell","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1377","brazil nuts, in shell","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","21422","almonds, shelled","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","21423","hazelnuts, shelled","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","21424","cashew nuts, shelled","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1379.01","areca nuts ","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1379.02","kola nuts","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","1379.9","other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.","1379.9.01","A014M#F02.A066R$F01.A05RH$F27.A014M","macadamias","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","21429.01","brazil nuts, shelled","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","21429.02","walnuts, shelled","","","","","","",NA,NA
+"OT","Other foods",2551,"nuts and products","F0235","prepared nuts","","","","","","",NA,NA
+"PB","Pulses and Beans",2555,"soyabeans and products","141","soya beans","141.01","A0DCH#F28.A07HS","soybeans, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2555,"soyabeans and products","141","soya beans","141.02","A185Q#F27.A0DCH","soybeans, flour, raw","","","",NA,NA
+"PB","Pulses and Beans",2555,"soyabeans and products","23995.01","soya sauce","","","","","","",NA,NA
+"PB","Pulses and Beans",2555,"soyabeans and products","23995.02","soya paste","","","","","","",NA,NA
+"PB","Pulses and Beans",2555,"soyabeans and products","23999.03","soya curd","","","","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","142","groundnuts, excluding shelled","142.01","A015H#F20.A07QD","peanuts, unshelled, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","142","groundnuts, excluding shelled","142.02","A0F0N#F27.A015H$F28.A07HS$F28.A07LA$F03.A06JD","peanut, flour, raw","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","142","groundnuts, excluding shelled","142.03","A012P#F28.A07HS$F20.A07QD","peanuts, fresh, unshelled, raw","key difference is the moisture content","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","142","groundnuts, excluding shelled","142.04","A015H#F28.A07GY$F20.A07QD","peanut, unshelled, roasted","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","142","groundnuts, excluding shelled","142.05","A015H#F28.A07GL$F20.A07QD","peanut, unshelled, boiled","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","21421","groundnuts, shelled","21421.01","A015H#F20.A07QC","peanuts, shelled, dried, raw","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","21421","groundnuts, shelled","21421.02","A012P#F28.A07HS$F20.A07QC","peanuts, fresh, shelled, raw","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","21495.01","prepared groundnuts","","","","","","",NA,NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","21495.02","peanut butter","","","","","","",NA,NA
+"OT","Other foods",2557,"sunflower seed and products","1445","sunflower seed","1445.01","A015L#F28.A07KG","sunflower seeds, dried","","","",NA,NA
+"OT","Other foods",2558,"rape and mustardseed and products","1442","mustard seed","","","","","","",NA,NA
+"OT","Other foods",2558,"rape and mustardseed and products","1443","rapeseed or colza seed","","","","","","",NA,NA
+"OT","Other foods",2558,"rape and mustardseed and products","23995.03","flour of mustard seed","","","","","","",NA,NA
+"OT","Other foods",2559,"cottonseed and products","143","cottonseed","","","","","","",NA,NA
+"OT","Other foods",2560,"coconuts (including copra) and products","1460","coconuts, in shell","1460.01","A014K#F02.A066R$F01.A05RC$F27.A014K","coconut, mature, fresh, raw","","","",NA,NA
+"OT","Other foods",2560,"coconuts (including copra) and products","1492","copra","","","","","","",NA,NA
+"OT","Other foods",2560,"coconuts (including copra) and products","21429.07","coconuts, desiccated","","","","","","",NA,NA
+"OT","Other foods",2561,"sesame seed and products","1444","sesame seed","1444.01","A015K#F02.A066S$F01.A05RY$F27.A015K","sesame seeds","","","",NA,NA
+"OT","Other foods",2562,"palm kernels and products","1491.01","oil palm fruit","","","","","","",NA,NA
+"OT","Other foods",2562,"palm kernels and products","1491.02","palm kernels [only calories]","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2563,"olives (including preserved) and products","1450","olives","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2563,"olives (including preserved) and products","F0262","olives preserved","F0262.01","A01BQ#F02.A0EVC$F27.A01BP$F28.A0CQZ","olives, preserved","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1441","linseed","1441.01","A015G#F02.A066S$F01.A05RV$F27.A015G","linseeds","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1446","safflower seed","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1447","castor oil seeds","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1448","poppy seed","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","21920","flours and meals of oil seeds or oleaginous fruits, except those of mustard","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1449.01","melonseed","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1449.02","hempseed","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1449.9","other oil seeds, n.e.c.","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.01","karite nuts (sheanuts)","1499.01.01","A016H#F02.A0ELD$F01.A05SP$F27.A016H","shea nuts","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.02","tung nuts","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.03","jojoba seeds","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.04","tallowtree seeds","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.05","kapok fruit","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.06","kapokseed in shell","","","","","","",NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1499.07","kapokseed, shelled","","","","","","",NA,NA
+"OT","Other foods",2571,"soyabean oil and products","2161","soya bean oil","2161.01","A036X#F02.A068M$F27.A015P$F28.A0C02","soybean oil","","","",NA,NA
+"OT","Other foods",2572,"groundnut oil and products","2162","groundnut oil","2162.01","A037A#F02.A068M$F27.A015H$F28.A0C02","peanut oil","","","",NA,NA
+"OT","Other foods",2573,"sunflowerseed oil and products","21631.01","sunflower-seed oil, crude","21631.01.01","A037D#F02.A068M$F27.A015L$F28.A0C02","sunflower oil","","","",NA,NA
+"OT","Other foods",2574,"rape and mustard oil and products","21641.01","rapeseed or canola oil , crude","21641.01.01","A036V#F02.A068M$F27.A015M$F28.A0C02","rape seed oil","","","",NA,NA
+"OT","Other foods",2574,"rape and mustard oil and products","21641.02","mustardseed oil, crude","","","","","","",NA,NA
+"OT","Other foods",2575,"cottonseed oil and products","2168","cottonseed oil","2168.01","A036Z#F02.A068M$F27.A015V$F28.A0C02","cotton seed oil","","","",NA,NA
+"OT","Other foods",2576,"palmkernel oil and products","21691.14","oil of palm kernel","21691.14.01","A037P#F02.A068M$F27.A016N$F28.A0C02","palm kernel oil","","","",NA,NA
+"OT","Other foods",2577,"palm oil and products","2165","palm oil","2165.01","A037N#F02.A068M$F27.A016P$F28.A0C02","palm oil","","","",NA,NA
+"OT","Other foods",2577,"palm oil and products","34120","industrial monocarboxylic fatty acids; acid oils from refining","","","","","","",NA,NA
+"OT","Other foods",2577,"palm oil and products","21932.02","residues of fatty substances","","","","","","",NA,NA
+"OT","Other foods",2578,"coconut oil and products","2166","coconut oil","2166.01","A037M#F02.A068M$F27.A014K$F28.A0C02","coconut oil","","","",NA,NA
+"OT","Other foods",2579,"sesameseed oil and products","21691.07","oil of sesame seed","21691.07.01","A037C#F02.A068M$F27.A015K$F28.A0C02","sesame seed oil","","","",NA,NA
+"OT","Other foods",2580,"olive oil and products","2167","olive oil","2167.01","A036P#F02.A068M$F27.A016M$F28.A0C02","olive oil","","","",NA,NA
+"OT","Other foods",2580,"olive oil and products","21673","oil of olive residues","","","","","","",NA,NA
+"CE","Cereals",2581,"ricebran oil and products","21691.01","oil of rice bran","21691.01.01","A037L#F27.A001C","rice bran, oil","","","",NA,NA
+"CE","Cereals",2582,"maize germ oil and products","21691.02","oil of maize","21691.02.01","A036Y#F02.A068M$F27.A000T$F28.A0C02","maize oil","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","23620","cocoa butter, fat and oil","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","34550","animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils","34550.01","A04SD#F02.A0EYC$F28.A0CRJ","vegetable, oil","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21631.02","safflower-seed oil, crude","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.03","butter of karite nuts","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.04","oil of castor beans","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.05","oil of tung nuts","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.06","jojoba oil","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.08","oil of poppy seed","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.09","vegetable tallow [only calories]","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.1","stillingia oil","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.11","oil of kapok","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.12","oil of linseed","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.13","oil of hempseed","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21691.9","other oil of vegetable origin, crude n.e.c.","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21693.02","castor oil, hydrogenated","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21700.01","liquid margarine","","","","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","21700.02","margarine and shortening","21700.02.01","A039E#F02.A0ENG$F04.A036N","margarine","","","",NA,NA
+"OT","Other foods",2586,"oilcrops oil, other and products","F1275","hydrogenated oils and fats","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2601,"tomatoes and products","1234","tomatoes","1234.01","A0DMX#F28.A07HS","tomatoes, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2601,"tomatoes and products","21321","tomato juice","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2601,"tomatoes and products","21399.01","paste of tomatoes","21399.01.01","A044C#F02.A0EPL$F04.A0DMX","tomatoes, sauce","","","",NA,NA
+"FV","Fruits and Vegetables",2601,"tomatoes and products","21399.02","tomatoes, peeled (o/t vinegar)","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2602,"onions and products","1253.02","onions and shallots, dry (excluding dehydrated)","1253.02.01","A00HC#F28.A07HS","onions, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2602,"onions and products","1253.02","onions and shallots, dry (excluding dehydrated)","1253.02.02","A00HF#F28.A07HS","shallots, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1211","asparagus","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1212","cabbages","1212.01","A00GC#F28.A07HS","cabbages, white, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1212","cabbages","1212.02","A00GG#F28.A07HS","cabbages, chinese, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1212","cabbages","1212.03","A00FY#F28.A07HS","cabbages, head, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1213","cauliflowers and broccoli","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1214","lettuce and chicory","1214.01","A00KX#F28.A07HS","lettuces, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1214","lettuce and chicory","1214.02","A00NE#F28.A07HS","chicory, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1214","lettuce and chicory","1214.03","A00LV#F28.A07HS","rape leaves, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1214","lettuce and chicory","1214.04","A16QL#F28.A07HS","pumpkin leaves, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1214","lettuce and chicory","1214.05","A16QM#F28.A07HS","jew's mallow leaves, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1214","lettuce and chicory","1214.06","A00NY#F28.A07HS","blackjack leaves, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1215","spinach","1215.01","A00MJ#F28.A07HS","spinach, fresh, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1215","spinach","1215.02","A00ML#F28.A07HS","amaranth leaves, fresh, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1215","spinach","1215.03","A00MF#F28.A07HS","roselle leaves, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1216","artichokes","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1221","watermelons","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1229","cantaloupes and other melons","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1231","chillies and peppers, green (capsicum spp. and pimenta spp.)","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1232","cucumbers and gherkins","1232.01","A00JM#F28.A07HS","cucumbers, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1232","cucumbers and gherkins","1232.02","A00JP#F28.A07HS","gherkins, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1233","eggplants (aubergines)","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1235","pumpkins, squash and gourds","1235.01","A00KH#F28.A07HS","pumpkins, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1235","pumpkins, squash and gourds","1235.02","A0DLT#F28.A07HS","squashes, butternut, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1235","pumpkins, squash and gourds","1235.03","A00KN#F28.A07HS","gourd, winter, raw","also called winter melon","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1242","peas, green","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1243","broad beans and horse beans, green ","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1251","carrots and turnips","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1252","green garlic","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1254","leeks and other alliaceous vegetables","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1270","mushrooms and truffles","1270.01","A00TQ#F28.A07HS","common mushrooms, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1270","mushrooms and truffles","1270.02","A0DDN#F28.A07HS","mushroom, pleurotus, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1356","locust beans (carobs)","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1691","chicory roots ","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21329","other vegetable juices","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21340","vegetables, pulses and potatoes, preserved by vinegar or acetic acid","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1219.01","cassava leaves","1219.01.01","A00NJ#F28.A07HS","cassava leaves, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1239.01","okra ","1239.01.01","A00JF#F28.A07HS","okra, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1241.01","string beans ","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1241.9","other beans, green","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1253.01","onions and shallots, green","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.01","green corn (maize) ","1290.01.01","A00KP#F28.A07HS$F10.A0F2Q","maize, green, raw","","","This is also known as sweet corn. It's moisture content (and the maturity of the harvest) are key differences",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.01","green corn (maize) ","1290.01.02","A00KP#F28.A07GY","maize, green, roasted","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.01","green corn (maize) ","1290.01.03","A00KP#F28.A07GL","maize, green, boiled","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.9","other vegetables, fresh n.e.c.","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21319.01","sweet corn, frozen","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21330.9","other vegetables provisionally preserved","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21393.01","dried mushrooms","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21393.9","vegetables, dehydrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21397.01","canned mushrooms","21397.01.01","A00TZ#F02.A0ERQ$F27.A0ETG$F28.A0BYP","canned mushrooms","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","21399.03","sweet corn, prepared or preserved","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","23912.01","coffee substitutes","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","23991.02","homogenized vegetable preparations","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","F0472","vegetables preserved nes (o/t vinegar)","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","F0473","vegetables frozen","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","F0475","vegetables preserved (frozen)","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","1323","oranges","1323.01","A0DZB#F28.A07HS","oranges, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","1324","tangerines, mandarins, clementines","1324.01","A01CH#F28.A07HS","tangerines, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","1324","tangerines, mandarins, clementines","1324.02","A01CD#F28.A07HS","mandarins, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","1324","tangerines, mandarins, clementines","1324.03","A01CE#F28.A07HS","clementines, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","21431.01","orange juice","21431.01","A03AM#F02.A068V$F27.A0DZB$F28.A07LN","orange, juice","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","21431.02","orange juice, concentrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2611,"oranges, mandarines and products","21439.01","juice of tangerine","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2612,"lemons, limes and products","1322","lemons and limes","1322.01","A01BY#F28.A07HS","lemons, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2612,"lemons, limes and products","1322","lemons and limes","1322.02","A01CA#F28.A07HS","limes, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2612,"lemons, limes and products","21439.02","juice of lemon","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2612,"lemons, limes and products","21439.03","Lemon juice, concentrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2613,"grapefruit and products","1321","pomelos and grapefruits","1321.01","A01DB#F28.A07HS","pomelos, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2613,"grapefruit and products","1321","pomelos and grapefruits","1321.02","A01CY#F28.A07HS","grapefruits, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2613,"grapefruit and products","21432","grapefruit juice","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2613,"grapefruit and products","21432.01","grapefruit juice, concentrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2614,"citrus, other and products","1329","other citrus fruit, n.e.c.","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2614,"citrus, other and products","21439.04","Juice of citrus fruit n.e.c.","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2614,"citrus, other and products","21439.05","Citrus juice, concentrated n.e.c.","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2615,"bananas and products","1312","bananas","1312.01","A01LC#F28.A07HS","banana, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2616,"plantains and products","1313","plantains and others","1313.01","A01LE#F28.A07HS","plantain, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2616,"plantains and products","1313","plantains and others","1313.02","A01LE#F28.A07GL","plantain, bolied","","","",NA,NA
+"FV","Fruits and Vegetables",2617,"apples and products","1341","apples","1341.01","A01DJ#F28.A07HS","apples, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2617,"apples and products","21435.01","apple juice","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2617,"apples and products","21435.02","apple juice, concentrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2618,"pineapples and products","1318","pineapples","1318.01","A01LP#F28.A07HS","pineapple, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2618,"pineapples and products","21433","pineapple juice","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2618,"pineapples and products","21491","pineapples, otherwise prepared or preserved","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2618,"pineapples and products","21433.01","juice of pineapples, concentrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2619,"dates and products","1314","dates","1314.01","A01HF#F02.A0ELC$F01.A062D$F27.A01HF","dates","","","",NA,NA
+"FV","Fruits and Vegetables",2620,"grapes and products (excludingexcl wine) and products","1330","grapes","1330.01","A01DX#F28.A07HS","grapes, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2620,"grapes and products (excludingexcl wine) and products","21411","raisins","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2620,"grapes and products (excludingexcl wine) and products","21434","grape juice","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2620,"grapes and products (excludingexcl wine) and products","24212.01","must of grape","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1311","avocados","1311.01","A01LB#F28.A07HS","avocados, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1315","figs","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1316","mangoes, guavas, mangosteens","1316.01","A01LF#F28.A07HS","mangoes, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1316","mangoes, guavas, mangosteens","1316.02","A0CGD#F28.A07HS","guavas, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1316","mangoes, guavas, mangosteens","1316.03","A01JX#F28.A07HS","mangosteens, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1317","papayas","1317.01","A01LG#F28.A07HS","papayas, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1319","other tropical fruits, n.e.c.","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1343","apricots","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1345","peaches and nectarines","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1346","plums and sloes","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1352","kiwi fruit","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1354","strawberries","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21412","plums, dried","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1342.01","pears","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1342.02","quinces","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1344.01","sour cherries","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1344.02","cherries","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1349.1","other pome fruits","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1349.2","other stone fruits","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1351.01","currants","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1351.02","gooseberries ","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1353.01","raspberries","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1355.01","blueberries","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1355.02","cranberries","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1355.9","other berries and fruits of the genus vaccinium","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1359.01","persimmons","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1359.02","cashewapple","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1359.9","other fruits n.e.c. ","1359.9.01","A01JL#F28.A07HS","indian jujubes, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1359.9","other fruits n.e.c. ","1359.9.02","A0F6K#F28.A07HS","baobab fruits, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21419.01","apricots, dried","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21419.02","figs, dried","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21419.91","other tropical fruit, dried [only calories]","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21419.99","other fruit n.e.c., dried","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21439.06","Juice of plum","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21439.07","Juice of plum, concentrated","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21439.08","Juice of mango","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","21439.9","juice of fruits n.e.c.","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","23170.04","flour of fruits","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","23670.02","fruit, nuts, peel, sugar preserved","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","23991.03","homogenized cooked fruit, prepared","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","F0623","fruit prepared n.e.c.","F0623.01","A01NH#F02.A0EMA$F28.A0BA1$F04.A0BY6$F04.A04RK","jam, mixed fruit","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","F0623","fruit prepared n.e.c.","F0623.02","A16FC#F02.A16FD$F28.A0BA1$F04.A0BY6$F04.A04RK","jelly, fruits","","","",NA,NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","F0623","fruit prepared n.e.c.","F0623.03","A0EQX#F04.A01LC","banana, fritters","","","",NA,NA
+"OT","Other foods",2630,"coffee and products","1610","coffee, green","","","","","","",NA,NA
+"OT","Other foods",2630,"coffee and products","23911","coffee, decaffeinated or roasted","23911.01","A03GN#F02.A0EYD$F27.A03GK$F28.A07HC$F28.A07LA","coffee ground, roasted","","","",NA,NA
+"OT","Other foods",2630,"coffee and products","23912.02","coffee extracts","23912.02.01","A03GQ#F02.A0EYD$F27.A03GK$F28.A07HC$F28.A07MJ$F28.A07KG$F28.A07XZ","coffee, instant powder","","","",NA,NA
+"OT","Other foods",2630,"coffee and products","23912.02","coffee extracts","23912.02.02","A03KC#F02.A068Y$F28.A07MK$F04.A03DK$F04.A03GN$F10.A06HV","coffee beverages","","","",NA,NA
+"OT","Other foods",2633,"cocoa beans and products","1640","cocoa beans","","","","","","",NA,NA
+"OT","Other foods",2633,"cocoa beans and products","23610.01","cocoa paste not defatted","","","","","","",NA,NA
+"OT","Other foods",2633,"cocoa beans and products","F0665","cocoa powder and cake [only calories]","F0665.01","A03HG#F02.A0EYD$F27.A03HF$F28.A07HC$F28.A07LA$F28.A0BZN$F03.A06JD","cocoa powder","","","",NA,NA
+"OT","Other foods",2633,"cocoa beans and products","F0666","chocolate products nes","F0666.01","A034J#F02.A06EK$F28.A0CRJ$F04.A03HJ$F04.A02PJ$F04.A037R","chocolate, milk","","","",NA,NA
+"OT","Other foods",2635,"tea (including mate) and products","1620","tea leaves","1620.01","A04KK#F02.A0EYD$F27.A16GV$F28.A07KG","tea leaves","","","",NA,NA
+"OT","Other foods",2635,"tea (including mate) and products","1630","maté leaves","","","","","","",NA,NA
+"OT","Other foods",2635,"tea (including mate) and products","23914","extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté","23914.01","A03LB#F02.A068Y$F28.A07MK$F04.A03HQ","tea beverages","","","",NA,NA
+"OT","Other foods",2635,"tea (including mate) and products","23914","extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté","23914.02","A03HY#F02.A0EYD$F27.A16GV$F28.A07MJ$F28.A07KG$F03.A06JD","tea extract, powder","","","",NA,NA
+"OT","Other foods",2640,"pepper and products","1651","pepper (piper spp.), raw","1651.01","A019C#F02.A0ELF$F01.A05TT$F27.A019C","pepper, black","","","",NA,NA
+"FV","Fruits and Vegetables",2641,"pimento and products","1652","chillies and peppers, dry (capsicum spp. and pimenta spp.), raw","1652.01","A00HZ#F28.A07HS","pepper, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2641,"pimento and products","1652","chillies and peppers, dry (capsicum spp. and pimenta spp.), raw","1652.02","A019K#F28.A07HS","peppers, dried, raw","","","",NA,NA
+"OT","Other foods",2642,"cloves and products","1656","cloves (whole stems), raw","1656.01","A01AL#F02.A066Z$F01.A05VR$F27.A01AL","cloves","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1653","nutmeg, mace, cardamoms, raw","","","","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1654","anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","","","","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1655","cinnamon and cinnamon-tree flowers, raw","","","","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1657","ginger, raw","","","","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1658","vanilla, raw","","","","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.01","A01AC#F02.A0F0F$F01.A05VM$F27.A01AC","turmeric roots","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.02","A042P#F02.A06BZ$F01.A0BYJ$F27.A042P","salt","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.03","A042Z#F02.A06HB$F04.A0EZM","mixed spices","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.04","A049A#F02.A06CK$F01.A066J$F27.A049A","yeast, baking","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.05","A048Q#F02.A06CG","baking powder","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.06","A044Q#F02.A0EPP$F04.A0DMJ","tabasco, sauce","","","",NA,NA
+"OT","Other foods",2655,"wine and products","24220","vermouth and other wine of fresh grapes flavoured with plats or aromatic substances","","","","","","",NA,NA
+"OT","Other foods",2655,"wine and products","24212.02","wine","24212.02.01","A03MV#F02.A0ENK$F27.A01DY$F28.A0C00$F10.A0F2R","wine, white","","","",NA,NA
+"OT","Other foods",2655,"wine and products","24212.02","wine","24212.02.02","A03MX#F02.A0ENK$F27.A01DY$F28.A0C00$F10.A0F2S","wine, red","","","",NA,NA
+"OT","Other foods",2655,"wine and products","24212.02","wine","24212.02.03","A03MY#F02.A0ENK$F27.A01DY$F28.A0C00$F10.A0F2S$F10.A0F2Z","wine, rosé","","","",NA,NA
+"OT","Other foods",2656,"beer and products","24310.01","Beer of barley, malted","24310.01.01","A03ME#F02.A0ENH$F28.A0C01$F10.A06HV","beer, regular","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24230.01","wheat-fermented beverages","","","","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24230.02","rice-fermented beverages","","","","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24230.03","cider and other fermented beverages","24230.03.01","A03ND#F02.A0ENL$F27.A01DJ$F28.A0C00","cider","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24230.03","cider and other fermented beverages","24230.03.02","A16YN#F04.A002P","maize-fermented beverage","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24230.03","cider and other fermented beverages","24230.03.03","A16YN#F04.A001B$F04.A002P","maize- and millet-fermented beverage","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24310.02","Beer of maize, malted","24310.02.01","A03MB#F04.A000T","beer, maize grain","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24310.03","Beer of millet, malted","","","","","","",NA,NA
+"CE","Cereals",2657,"beverages, fermented and products","24310.04","Beer of sorghum, malted","24310.04.01","A03MB#F04.A001L","beer, sorghum grain","","","",NA,NA
+"OT","Other foods",2658,"beverages, alcoholic and products","2413","undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages","2413.01","A03PG#F02.A0ENP$F28.A07MF$F04.A018X$F04.A03PD","gin","","","",NA,NA
+NA,NA,2659,"alcohol, non-food and products","24110","undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol or higher","","","","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21112","meat of buffalo, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21182","bovine meat, salted, dried or smoked","","","","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21185","extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates","","","","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21111.01","meat of cattle with the bone, fresh or chilled","21111.01.01","A01QX#F28.A07HS$F20.A07QL","beef, lean, with bones, fresh, raw","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","F0875","meat of cattle with the bone, fresh or chilled","F0875.01","A01QX#F28.A07GZ","beef, fresh, grilled","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21111.02","meat of cattle boneless, fresh or chilled","21111.02.01","A01QX#F28.A07HS$F20.A07QM","beef, lean, without bones, fresh, raw","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21184.01","sausages and similar products of meat, offal or blood of beef and veal","","","","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","23991.04","homogenized meat preparations","","","","","","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","F0875","beef and veal preparations nes","","","","","","",NA,NA
+"AP","Animal Products",2732,"mutton & and goat meat and products","21115","meat of sheep, fresh or chilled","21115.01","A01RH#F28.A07HS","sheep meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2732,"mutton & and goat meat and products","21116","meat of goat, fresh or chilled","21116.01","A01RL#F28.A07HS","goat meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2732,"mutton & and goat meat and products","21116","meat of goat, fresh or chilled","21116.02","A01RL#F28.A07GZ","goat meat, fresh, grilled","","","",NA,NA
+"AP","Animal Products",2733,"pigmeat and products","21181","pig meat, cuts, salted, dried or smoked (bacon and ham)","","","","","","",NA,NA
+"AP","Animal Products",2733,"pigmeat and products","21113.01","meat of pig with the bone, fresh or chilled","21113.01.01","A01RG#F28.A07HS$F20.A07QL","pig meat, with bones, fresh, raw","","","",NA,NA
+"AP","Animal Products",2733,"pigmeat and products","21113.02","meat of pig boneless, fresh or chilled","21113.02.01","A01RG#F28.A07HS$F20.A07QM","pig meat, without bones, fresh, raw","","","",NA,NA
+"AP","Animal Products",2733,"pigmeat and products","21184.02","sausages and similar products of meat, offal or blood of pig","","","","","","",NA,NA
+"AP","Animal Products",2733,"pigmeat and products","F1042","pig meat preparations","","","","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21121","meat of chickens, fresh or chilled","21121.01","A01SP#F28.A07HS","chicken meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21121","meat of chickens, fresh or chilled","21121.02","A04DS#F28.A07HS$F10.A166Y","chicken meat, minced, fresh, raw","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21121","meat of chickens, fresh or chilled","21121.03","A01SP#F28.A07GG","chicken meat, fresh, stew","","","cooking in water",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","F1061","meat of chickens, fresh or chilled","F1061.01","A01SP#F28.A07GV","chicken meat, fresh, deep-fried","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21122","meat of ducks, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21123","meat of geese, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21124","meat of turkeys, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21189.02","fatty liver preparations","","","","","","",NA,NA
+"AP","Animal Products",2734,"poultry meat and products","F1061","poultry meat preparations ","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","2920","snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21114","meat of rabbits and hares, fresh or chilled","21114.01","A01RQ#F28.A07HS","rabbit meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21183","other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21117.01","meat of camels, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21117.02","meat of other domestic camelids, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21118.01","horse meat, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21118.02","meat of asses, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21118.03","meat of mules, fresh or chilled","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21119.01","meat of other domestic rodents, fresh or chilled","21119.01.01","A0F6B#F28.A07HS$F10.A166Y","rat meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.01","meat of pigeons and other birds n.e.c., fresh, chilled or frozen","21170.01.01","A01TA#F28.A07HS","pigeon meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.01","meat of pigeons and other birds n.e.c., fresh, chilled or frozen","21170.01.02","A01SX#F28.A07HS","guinea-fowl meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.01","meat of pigeons and other birds n.e.c., fresh, chilled or frozen","21170.01.03","A01TB#F28.A07HS","quail fresh meat,raw","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.02","game meat, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.92","other meat n.e.c., fresh, chilled or frozen","21170.92.01","A01SA#F28.A07HS","deer meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.92","other meat n.e.c., fresh, chilled or frozen","21170.92.02","A16XE#F28.A07HS$F10.A166Y","edible insect adults, fresh, raw","If we want to make a difference between different adult insect, we need a specific ""facet""","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","21170.92","other meat n.e.c., fresh, chilled or frozen","21170.92.03","A16XC#F28.A07HS$F10.A166Y","edible insect larvae, fresh, raw","If we want to make a difference between different larvae insect, we need a specific ""facet""","","",NA,NA
+"AP","Animal Products",2735,"meat, other and products","F1172","meat prepared n.e.c.","F1172.01","A024B","tinned meat","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21151","edible offal of cattle, fresh, chilled or frozen","21151.01","A01ZM#F28.A07HS","beef offal, fresh, raw","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21151","edible offal of cattle, fresh, chilled or frozen","21151.02","A01XF#F28.A07HS","beef liver, fresh, raw","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21152","edible offal of buffalo, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21153","edible offal of pigs, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21155","edible offal of sheep, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21156","edible offal of goat, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21159.01","edible offals of horses and other equines,  fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21159.02","edible offals of camels and other camelids, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21160.01","edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21160.02","edible offals and liver of geese, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21160.03","edible offals and liver of ducks, fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21160.04","edible offals and liver of turkey,fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21170.93","offals n.e.c.,fresh, chilled or frozen","","","","","","",NA,NA
+"AP","Animal Products",2736,"offals, edible and products","21189.01","liver preparations","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21512","cattle fat, unrendered","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21513","buffalo fat, unrendered","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21514","sheep fat, unrendered","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21515","goat fat, unrendered","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21521","pig fat, rendered","21521.01","A037V#F02.A06AR$F27.A01VA$F28.A0C02","pork lard","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21522","poultry fat, rendered","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21523","tallow","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21511.01","fat of pigs","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21511.02","pig, butcher fat [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21511.03","fat of poultry","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21512.01","cattle, butcher fat [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21519.02","fat of camels","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21519.03","fat of other camelids","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21529.02","lard stearine and lard oil","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21529.03","animal oils and fats nes","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","21932.01","degras","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","F0994","wool grease and lanolin","","","","","","",NA,NA
+"AP","Animal Products",2737,"fats, animals, raw and products","F1243","fat preparations n.e.c.","","","","","","",NA,NA
+"AP","Animal Products",2740,"butter, ghee and products","22241.01","butter of cow milk [only calories]","22241.01.01","A039C#F02.A06BE$F27.A02LV$F28.A07MH","butter","","","",NA,NA
+"AP","Animal Products",2740,"butter, ghee and products","22241.02","ghee from cow milk [only calories]","22241.02.01","A038Y#F02.A06BD$F27.A02LV$F28.A0BZT","ghee","","","",NA,NA
+"AP","Animal Products",2740,"butter, ghee and products","22242.01","butter of buffalo milk [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2740,"butter, ghee and products","22242.02","ghee, from buffalo milk [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2740,"butter, ghee and products","22249.01","butter and ghee of sheep milk [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2740,"butter, ghee and products","22249.02","butter of goat milk [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2743,"cream and products","22120","cream, fresh [only calories]","22120.01","A02ML#F02.A06BA$F27.A02LT$F28.A0EKQ","cream","","","",NA,NA
+"AP","Animal Products",2744,"eggs and products","231","hen eggs in shell, fresh","231.01","A031G#F28.A07HS","egg, chicken, raw","","","",NA,NA
+"AP","Animal Products",2744,"eggs and products","231","hen eggs in shell, fresh","231.02","A032B#F02.A06BX$F27.A031F$F28.A07LC$F28.A07GL","egg, chicken, boiled","","","",NA,NA
+"AP","Animal Products",2744,"eggs and products","232","eggs from other birds in shell, fresh, n.e.c.","","","","","","",NA,NA
+"AP","Animal Products",2744,"eggs and products","23993.01","egg albumin ","","","","","","",NA,NA
+"AP","Animal Products",2744,"eggs and products","23993.02","eggs, liquid","","","","","","",NA,NA
+"AP","Animal Products",2744,"eggs and products","23993.03","eggs, dried","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","2211","raw milk of cattle","2211.01","A02LY#F28.A07HS","milk, cow, whole, raw","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","2212","raw milk of buffalo","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","2291","raw milk of sheep","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","2292","raw milk of goats","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","2293","raw milk of camel","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22211","whole milk powder","22211.01","A02PK#F02.A04HF$F27.A02LT$F28.A07KG$F10.A077A$F03.A06JD","milk, cow, full-fat, powder","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22212","skim milk and whey powder","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22252","cheese from milk of buffalo, fresh or processed","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22253","cheese from milk of sheep, fresh or processed","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22254","cheese from milk of goats, fresh or processed","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22260","casein","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22270","ice cream and other edible ice [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22290","dairy products n.e.c. [only calories]","22290.01","A02NT#F02.A0BZ2$F27.A02LT$F28.A0CQZ","sour milk, traditional","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22110.02","skim milk of cows","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22110.03","reconstituted milk","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22110.04","skim milk of buffalo","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22110.05","skim sheep milk","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22110.06","skim milk of goat","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22130.01","whey, fresh [only calories]","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22130.02","whey, dry","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22130.03","whey, condensed","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22221.01","whole milk, evaporated","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22221.02","skim milk, evaporated","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22222.01","whole milk, condensed","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22222.02","skim milk, condensed","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22230.01","yoghurt","22230.01.01","A02NG#F02.A0BZ2$F27.A04HG$F28.A0CQZ","yoghurt, cow milk, plain","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22230.02","yoghurt, with additives","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22230.03","buttermilk, curdled and acidified milk","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22230.04","buttermilk, dry","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22251.01","cheese from whole cow milk","22251.01.01","A02QG#F02.A06BL$F27.A02LT$F28.A0C6E","cheese, cow milk, cottage","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22251.02","cheese from skimmed cow milk","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22251.03","whey cheese","","","","","","",NA,NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22251.04","processed cheese","","","","","","",NA,NA
+"OT","Other foods",2680,"infant food and products","23991.01","infant food","23991.01.01","A03QZ#F02.A06FK$F28.A07KG$F04.A0EZF","infant cereals","","","",NA,NA
+"OT","Other foods",2899,"miscellaneous and products","F1232","food preparations n.e.c. ","","","","","","",NA,NA
+"OT","Other foods",2899,"miscellaneous and products","2899.01","water","2899.01.01","A03DV#F02.A06CA$F27.A03DV","water, drinking, bottled","","","",NA,NA
+"AP","Animal Products",2769,"aquatic animals, others","1587","aquatic animals, fresh","1587.01","A0CVE#F28.A07HS$F10.A166Y","frog meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2769,"aquatic animals, others","1588","aquatic animals, cured","","","","","","",NA,NA
+"AP","Animal Products",2769,"aquatic animals, others","1589","aquatic animals, meals","","","","","","",NA,NA
+"AP","Animal Products",2769,"aquatic animals, others","1590","aquatic animals, preparation ns","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2775,"aquatic plants","1594","aquatic plants, fresh","1594.01","A00VE#F28.A07HS","red algae, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2775,"aquatic plants","1595","aquatic plants, dried","","","","","","",NA,NA
+"FV","Fruits and Vegetables",2775,"aquatic plants","1596","aquatic plants, other preparations","","","","","","",NA,NA
+"AP","Animal Products",2768,"meat, aquatic mammals","1580","aquatic mammals, meat","1580.01","A02KN#F28.A07HS$F10.A166Y","marine mammals meat, fresh, raw","","","",NA,NA
+"AP","Animal Products",2768,"meat, aquatic mammals","1583","aquatic mammals, preparations ns","","","","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1570","cephalopods, fresh","1570.01","A02JH#F28.A07HS","squids, raw","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1570","cephalopods, fresh","1570.02","A02JA#F28.A07HS","cuttlefishes, raw","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1570","cephalopods, fresh","1570.03","A02JD#F28.A07HS","octopuses, raw","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1571","cephalopods, frozen","","","","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1572","cephalopods, cured","","","","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1573","cephalopods, canned","","","","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1574","cephalopods, preparations ns","","","","","","",NA,NA
+"AP","Animal Products",2766,"cephalopods","1575","cephalopods, meals","","","","","","",NA,NA
+"AP","Animal Products",2765,"crustaceans","1553","crustaceans, fresh","1553.01","A0FCP#F28.A07HS","crab, fresh, raw","","","",NA,NA
+"AP","Animal Products",2765,"crustaceans","1554","crustaceans, frozen","","","","","","",NA,NA
+"AP","Animal Products",2765,"crustaceans","1555","crustaceans, cured","","","","","","",NA,NA
+"AP","Animal Products",2765,"crustaceans","1556","crustaceans, canned","","","","","","",NA,NA
+"AP","Animal Products",2765,"crustaceans","1557","crustaceans, preparations ns","","","","","","",NA,NA
+"AP","Animal Products",2765,"crustaceans","1558","crustaceans, meals","","","","","","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1514","demersal fish, fresh","1514.01","A0FAS#F28.A07HS$F10.A0F2R","groupers, white, fresh, raw","Demersal Fish, Fresh: Alaska pollack, angler (=monk), Australian salmon, bogue, Bombay duck, bonefish,
+breams, chimaera, chub, cod, conger, conger/sand eel, croaker, dentex, dogfish, dorie,
+drums, emperor, filefish, flatfishes, flounder, fusilier, gobies, grenadier (=hoki), grouper,
+grunt, guitarfish, gurnard, haddock, hake, halibut, icefish, ladyfish, lanternfish, ling,
+lizardfish, lumbfish, mojarra, moonfish (except Atlantic, African), mullet, orange perch,
+orange roughy, Pacific perch, pandora, Patagonian toothfish, picarel, plaice, puffer, ray,
+redfish, rockfish, saithe (=Pollock), sandeel, scabbardfish, sea bass, sea bream, sea catfish,
+sea perch, shark, skate, smooth-hounds, snapper, soles, spinefeet, steenbras, surgeon,
+tarpon, tilefish, threadfin, triggerfish, turbot, tusk (=cusk), warehou, weakfish, weever,
+whitefish, whiting, wolfish (=catfish), wrasse, etc","Definitions of FAOSTAT fish food commodities (appendix 2)","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1515","demersal fish, frozen, whole","","","","","","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1516","demersal fish, fillet","","","","","","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1517","demersal fish, frozen, fillet","","","","","","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1518","demersal fish, cured","1518.01","A0EYS#F27.A02CA$F28.A07HS","haddock, smoked, raw","Gutted and headed fish or fillets, unsalted or salted, dried (sun/air dried or machine dried) with different
+levels of residual moisture; brined or pickled using salt, vinegar, sugar and spices, smoked (dry or hot
+processing). The inedible part of the whole fish is 20–50%. For skin-on fillets the inedible part is 0–5%.
+This group also includes by-products as fish heads, tails, maws, tongues, fins, etc. used mostly for soups","Definitions of FAOSTAT fish food commodities (appendix 2)","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1519","demersal fish, canned","","","","","","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1520","demersal fish, preparation ns","","","","","","",NA,NA
+"AP","Animal Products",2762,"demersal fish","1521","demersal fish, meals","","","","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1501","freshwater fish, fresh","1501.01","A029N#F28.A07HS","trout, rainbow, fresh, raw","Barb, burbot, carps, catfish, dace, freshwater breams, freshwater drum, gabies, giant sea
+perch=barramundi, gourami, gudgeons, mandarin fish, milkfish, nile perch, paddlefishes,
+perch, pike, river eels, salmons, shads, sleepers, smelts, snakehead, sturgeons,
+tenchs, tilapias, trouts and miscellaneous freshwater and diadromous fishes, etc","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1501","freshwater fish, fresh","1501.02","A0F8P#F28.A07HS","catfish, african, fresh, raw","Barb, burbot, carps, catfish, dace, freshwater breams, freshwater drum, gabies, giant sea
+perch=barramundi, gourami, gudgeons, mandarin fish, milkfish, nile perch, paddlefishes,
+perch, pike, river eels, salmons, shads, sleepers, smelts, snakehead, sturgeons,
+tenchs, tilapias, trouts and miscellaneous freshwater and diadromous fishes, etc","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1501","freshwater fish, fresh","1501.03","A028A#F28.A0EJY","tilapia, fresh, grilled ","","Grilling/griddling (high temperature cooking) - bbq type","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1501","freshwater fish, fresh","1501.04","A0F8P#F28.A0EJY","catfish, african, fresh, grilled","","Grilling/griddling (high temperature cooking) - bbq type","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1501","freshwater fish, fresh","1501.05","A028A#F28.A07HS$F10.A166Y","tilapia, fresh, raw ","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1501","freshwater fish, fresh","1501.06","A0F0Z#F28.A07HS$F10.A166Y","barb, silver, fresh, raw","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1502","freshwater fish, frozen, whole","","","","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","","","","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1504","freshwater fish, frozen, fillet","","","","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.01","A02JP#F27.A0F8P$F28.A07HS","catfish, african, dried, raw","Salted, dried, smoked whole fish or fillets. The inedible part of the whole fish is 20–50%.","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.02","A02JP#F27.A028A$F28.A07HS","tilapia, dried, raw","Salted, dried, smoked whole fish or fillets. The inedible part of the whole fish is 20–50%.","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.03","A02JP#F27.A0F0Z$F28.A07HS","barb, silver, dried, raw","Salted, dried, smoked whole fish or fillets. The inedible part of the whole fish is 20–50%.","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.04","A0EYS#F27.A0F8P$F28.A07HS","catfish, african, smoked, raw","Salted, dried, smoked whole fish or fillets. The inedible part of the whole fish is 20–50%.","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.05","A0EYS#F27.A028A$F28.A07HS","tilapia, smoked, raw","Salted, dried, smoked whole fish or fillets. The inedible part of the whole fish is 20–50%.","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.06","A0EYS#F27.A0F0Z$F28.A07HS","barb, silver, smoked, raw","Salted, dried, smoked whole fish or fillets. The inedible part of the whole fish is 20–50%.","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1506","freshwater fish, canned","","","","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1507","freshwater fish, preparation ns","","","","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1508","freshwater fish, meals","","","","","","",NA,NA
+"AP","Animal Products",2782,"fish, liver oil","15100","freshwater fish, liver oil","","","","","","",NA,NA
+"AP","Animal Products",2782,"fish, liver oil","1523","demersal fish, liver oil","1523.01","A038Q#F02.A06AR$F27.A02EL$F28.A0C02","cod, liver oil","","","",NA,NA
+"AP","Animal Products",2782,"fish, liver oil","1536","pelagic fish, liver oil","","","","","","",NA,NA
+"AP","Animal Products",2782,"fish, liver oil","1549","marine fish, nes, liver oil","","","","","","",NA,NA
+"AP","Animal Products",2781,"fish, body oil","1509","freshwater fish, body oil","","","","","","",NA,NA
+"AP","Animal Products",2781,"fish, body oil","1522","demersal fish, body oil","1522.01","A038M#F27.A02BX","cod, body, oil","","","",NA,NA
+"AP","Animal Products",2781,"fish, body oil","1535","pelagic fish, body oil","1535.01","A038N#F02.A06AR$F27.A02DE$F28.A0C02","herring, body, oil","","","",NA,NA
+"AP","Animal Products",2781,"fish, body oil","1548","marine fish, body oil","","","","","","",NA,NA
+"AP","Animal Products",2781,"fish, body oil","1582","aquatic mammals, oil","","","","","","",NA,NA
+"AP","Animal Products",2767,"molluscs, other","1562","molluscs, fresh","1562.01","A02HG#F28.A07HS$F10.A166Y","oysters, fresh, raw","","","",NA,NA
+"AP","Animal Products",2767,"molluscs, other","1563","molluscs, frozen","","","","","","",NA,NA
+"AP","Animal Products",2767,"molluscs, other","1564","molluscs, cureed","","","","","","",NA,NA
+"AP","Animal Products",2767,"molluscs, other","1565","molluscs, canned","","","","","","",NA,NA
+"AP","Animal Products",2767,"molluscs, other","1566","molluscs, meals","","","","","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1527","pelagic fish, fresh","1527.01","A02CT#F28.A07HS$F10.A166Y","mackerel, fresh, raw","","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1528","pelagic fish, frozen, whole","","","","","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1529","pelagic fish, fillet","","","","","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","15300","pelagic fish, frozen, fillet","","","","","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1531","pelagic fish, cured","","","","","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1532","pelagic fish, canned","1532.01","A0FBZ#F02.A0EMS$F27.A02DA$F28.A0BYP","sardines, tinned","It can be called canned as well","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1533","pelagic fish, preparation nes","1533.01","A041X#F02.A06GY$F04.A026V$F10.A07VP.a","pelagic fish, fresh, soup","we added .a to idenfity pelagic fish, fresh, soup","","",NA,NA
+"AP","Animal Products",2763,"pelagic fish","1534","pelagic fish, meals","","","","","","",NA,NA
+"OT","Other foods",2680,"infant food and products","23991.01","infant food","23991.01.02","A03QA#F04.A02PR","infant formula, milk-based, casein, powder","","","",NA,NA
+"PB","Pulses and Beans",2546,"beans and products","1701","beans, dry","1701.04",NA,"velvet bean, dried, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2558,"rape and mustardseed and products","1442","mustard seed","1442.01","A015S#F28.A07KG$F28.A07HS","mustard seed, dried, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2659,"alcohol, non-food and products","24110","undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol or higher","24110.01",NA,"alcohol, 80perc",NA,NA,NA,NA,NA
+"OT","Other foods",2562,"palm kernels and products","1491.02","palm kernels [only calories]","1491.02.01","A0DAJ#F28.A07HS"," palm kernel, raw",NA,NA,NA,NA,NA
+"PB","Pulses and Beans",2546,"beans and products","1701","beans, dry","1701.04",NA,"velvet bean, dried, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2558,"rape and mustardseed and products","1442","mustard seed","1442.01","A015S#F28.A07KG$F28.A07HS","mustard seed, dried, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2659,"alcohol, non-food and products","24110","undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol or higher","24110.01",NA,"alcohol, 80perc",NA,NA,NA,NA,NA
+"OT","Other foods",2562,"palm kernels and products","1491.02","palm kernels [only calories]","1491.02.01","A0DAJ#F28.A07HS"," palm kernel, raw",NA,NA,NA,NA,NA
+"FV","Fruits and Vegetable",2617,"apples and products","21435.01","apple juice","21435.01.01","A039M#F10.A077J"," apple juice, sweetened",NA,NA,NA,NA,NA
+"CE","Cereals",2520,"cereals, other and products","1199.9","other cereals n.e.c.","1199.9.01","","teff grain, dried, unrefined, raw",NA,NA,NA,NA,NA
+"CE","Cereals",2513,"barley and products","115","barley","115.01","","barley grain, dried, unrefined, raw",NA,NA,NA,NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1702","broad beans and horse beans, dry","1702.01","","horse bean, dried, raw",NA,NA,NA,NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1703","chick peas, dry","1703.01","","chick peas, dried, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2570,"oilcrops, other and products","1449.9","other oil seeds, n.e.c.","1449.9.01","","niger seeds, dried, raw",NA,NA,NA,NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","1599.1","edible roots and tubers with high starch or inulin content, n.e.c., fresh","1599.1.01","","ensete, raw","it is often called false banana","https://iopscience.iop.org/article/10.1088/1748-9326/ac40b2",NA,NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","23170.02","flour of roots and tubers nes","23170.02.01","","bread, ensete pulp, fermented, raw","kocho: bread-like fermented food made from chopped and grated ensete pulp","https://en.wikipedia.org/wiki/Kocho_(food)",NA,NA,NA
+"RT","Roots and Tubers",2534,"roots, other and products","23170.02","flour of roots and tubers nes","23170.02.02","","ensete, flour, raw","bula",NA,NA,NA,NA
+"CE","Cereals",2520,"cereals, other and products","23140.08","cereal preparations","23140.08.01","","injera, teff grain, ready-to-eat",NA,NA,NA,NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1709.01","vetches","1709.01.01","","vetch, dried, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c.","1699.07","","fenugreek, dried, raw",NA,NA,NA,NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1709.9","other pulses n.e.c.","1709.9.01","","mung bean, dried, raw",NA,NA,NA,NA,NA
+"PB","Pulses and Beans",2549,"pulses, other and products","23170.03","flour of pulses","23170.03.01","","chick peas flour, dried, raw",NA,NA,NA,NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1212","cabbages","1212.04","","kale, cabbage leaves, raw",NA,NA,NA,NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1252","green garlic","1252.01","","garlic, fresh, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c.","1699.08","","moringa, leaves, raw",NA,NA,NA,NA,NA
+"AP","Animal Products",2734,"poultry meat and products","21121","meat of chickens, fresh or chilled","21121.01.01",NA,"chicken meat, fresh, meat, skin, without bones, raw","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.9","other vegetables, fresh n.e.c.","1290.9.01","","beetroot, raw",NA,NA,NA,NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c.","1699.09","","hops, dried, raw",NA,NA,NA,NA,NA
+"CE","Cereals",2511,"wheat and products","F0020","bread","F0020.06",NA,"chapati, wheat flour, refined, fortified ghee",NA,NA,"",NA,NA
+"CE","Cereals",2511,"wheat and products","F0020","bread","F0020.05",NA,"chapati, wheat flour, unrefined, added ghee","Also called ""Indian chapati""",NA,"",NA,NA
+"CE","Cereals",2511,"wheat and products","F0020","bread","F0020.04",NA,"chapati, wheat flour, unrefined",NA,NA,"",NA,NA
+"CE","Cereals",2511,"wheat and products","F0020","bread","F0020.03",NA,"chapati, wheat flour, refined",NA,NA,"",NA,NA
+"CE","Cereals",2511,"wheat and products","23710","uncooked pasta, not stuffed or otherwise prepared","23710.02",NA,"pasta, macaroni, wheat, dried, raw",NA,NA,"",NA,NA
+"CE","Cereals",2511,"wheat and products","F0022","pastry","F0022.08",NA,"dough, fried","mandazi","TZFCT, KENFCT","",NA,NA
+"AP","Animal Products",2731,"bovine meat and products","21184.01","sausages and similar products of meat, offal or blood of beef and veal","21184.01.01",NA,"beef, sausage, raw","","","","bos taurus",NA
+"AP","Animal Products",2733,"pigmeat and products","21184.02","sausages and similar products of meat, offal or blood of pig","21184.02.01",NA,"pork, sausage, raw","","","","sus scrofa domesticus",NA
+"AP","Animal Products",2848,"milk - (excluding excluding butter butter) and products","22110.02","skim milk of cows","22110.02.01",NA,"milk, cow, skimmed, raw","","","","bos taurus",NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.01",NA,"west african lungfish, fillet, fresh, raw","ISSCAAP Code: 13; Taxonomic Code: 1160200202; Inter-Agency3-Alpha Code: PPG","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Protopterus annectens",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.02",NA,"nile perch, fillet, fresh, raw","ISSCAAP Code: 13; Taxonomic Code: 1700116707; Inter-Agency3-Alpha Code: NIP","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Lates niloticus",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.03",NA,"nile tilapia, fillet, fresh, raw","ISSCAAP Code: 12; Taxonomic Code: 1705905102; Inter-Agency3-Alpha Code: TLN","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Oreochromis niloticus",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.04",NA,"rhinofishes nei, fillet, fresh, raw","ISSCAAP Code: 11; Taxonomic Code: 14002024XX; Inter-Agency3-Alpha Code: RHI","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Labeo spp",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.05",NA,"naked catfishes, fillet, fresh, raw","ISSCAAP Code: 13; Taxonomic Code: 14108111XX; Inter-Agency3-Alpha Code: CAN","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Bagrus spp",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.06",NA,"upsidedown catfishes, fillet, fresh, raw","ISSCAAP Code: 13; Taxonomic Code: 14132008XX; Inter-Agency3-Alpha Code: CSY","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Synodontis spp",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.07",NA,"north african catfish, fillet, fresh, raw","ISSCAAP Code: 13; Taxonomic Code: 1411803003; Inter-Agency3-Alpha Code: CLZ","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Clarias gariepinus",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AP","Animal Products",2761,"freshwater fish","1503","freshwater & diadromous fish, fresh fillets","1503.08",NA,"tilapias nei, fillet, fresh, raw","ISSCAAP Code: 12; Taxonomic Code: 17059051XX; Inter-Agency3-Alpha Code: TLP","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)","","Oreochromis spp",NA
+"AP","Animal Products",2762,"demersal fish","1514","demersal fish, fresh","1514.02",NA,"shark, fresh, raw","ISSCAAP Code:38; Taxonomic Code:10802010XX; Inter-Agency3-Alpha Code:CWZ","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)",NA,"carcharhinus spp.",NA
+"AP","Animal Products",2762,"demersal fish","1514","demersal fish, fresh","1514.02",NA,"shark, fresh, raw","ISSCAAP Code:38; Taxonomic Code:10802010XX; Inter-Agency3-Alpha Code:CWZ","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/08). (2022)",NA,"carcharhinus spp.",NA
+"AP","Animal Products",2731,"bovine meat and products","21111.02","meat of cattle boneless, fresh or chilled","21111.02.03",NA,"beef, high fat, without bones, fresh, raw","","","","bos taurus",NA
+"AP","Animal Products",2731,"bovine meat and products","21111.02","meat of cattle boneless, fresh or chilled","21111.02.02",NA,"beef, moderate fat, without bones, fresh, raw","","","","bos taurus",NA
+"AP","Animal Products",2731,"bovine meat and products","21111.01","meat of cattle with the bone, fresh or chilled","21111.01.03",NA,"beef, high fat, with bones, fresh, raw","","","","bos taurus",NA
+"AP","Animal Products",2731,"bovine meat and products","21111.01","meat of cattle with the bone, fresh or chilled","21111.01.02",NA,"beef, moderate fat, with bones, fresh, raw","","","","bos taurus",NA
+"AP","Animal Products",2763,"pelagic fish","1527","pelagic fish, fresh","1527.02",NA,"sardines, fresh, raw","ISSCAAP Code:35; Taxonomic Code:12105012XX; Inter-Agency3-Alpha Code:SIX","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/08/01). (2022)","10.48580/dfpk-37v","sardinella spp.",NA
+"AP","Animal Products",2765,"crustaceans","1553","crustaceans, fresh","1553.02",NA,"prawns, fresh, raw","","","","penaeidae",NA
+"AP","Animal Products",2743,"cream and products","22120","cream, fresh [only calories]","22120.02",NA,"cream, cow milk, 35%","","","",NA,NA
+"AP","Animal Products",2761,"freshwater fish","1505","freshwater fish, cured","1505.07",NA,"cyprinid, silver, dried, raw","ISSCAAP Code:11; Taxonomic Code:1400207001; Inter-Agency3-Alpha Code:ENA","FAO-FIES. Aquatic Sciences and Fisheries Information System (ASFIS) species list. Retrievef from http://www.fao.org/fishery/collection/asfis/en (accessed 2022/07/19). (2022)","Lake Victoria sardine (https://www.catalogueoflife.org/data/taxon/4RLTW)","rastrineobola argentea",NA
+"PB","Pulses and Beans",2549,"pulses, other and products","1702","broad beans and horse beans, dry","1702.02",NA,"broad bean, dried, raw",NA,NA,NA,"vicia faba",NA
+"PB","Pulses and Beans",2556,"groundnuts (shelled eq) and products","21495.02","peanut butter","21495.02.01",NA,"peanut butter","","","","arachis hypogaea",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1231","chillies and peppers, green (capsicum spp. and pimenta spp.)","1231.01",NA,"capsicum, green, raw","","","","capsicum annuum",NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1354","strawberries","1354.01",NA,"strawberries, fresh, raw","","","","fragaria X ananassa",NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1345","peaches and nectarines","1345.01",NA,"peaches, fresh, raw","","","","prunus persica",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1213","cauliflowers and broccoli","1213.01",NA,"cauliflower, fresh, raw","","","","brassica oleracea var. botrytis",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1254","leeks and other alliaceous vegetables","1254.01",NA,"leeks, fresh, raw","","","","allium porrum",NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1346","plums and sloes","21346.01",NA,"plums, purple skin, fresh, raw","","","","prunus domestica",NA
+"FV","Fruits and Vegetables",2601,"tomatoes and products","21399.02","tomatoes, peeled (o/t vinegar)","21399.02.01",NA,"tomatoes, whole, tinned","","","",NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1233","eggplants (aubergines)","1233.01",NA,"eggplant, fresh, raw","","","","solalum melongena",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1253.01","onions and shallots, green","1253.01.01",NA,"spring onion, fresh, raw","","","","allium cepa",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1242","peas, green","1242.01",NA,"peas, green, fresh, raw","","","","pisum sativuma",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1241.9","other beans, green","1241.9.01",NA,"cow peas, green, fresh, raw","","","","vigna unguiculata",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1221","watermelons","1221.01",NA,"watermelon, fresh, raw","","","","citrullus lanatus",NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1319","other tropical fruits, n.e.c.","1319.01",NA,"jackfruit, fresh, raw","Fruit, tropical fresh nes (603)","FAO (2022). Supply Utilization Accounts. Accessed last on 2022-07-22. https://www.fao.org/faostat/en/#data/SCL","","artocarpus heterophyllus",NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1342.01","pears","1342.01.01",NA,"pear, fresh, raw","","","","pyrus communis ",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1231","chillies and peppers, green (capsicum spp. and pimenta spp.)","1231.03",NA,"capsicum, yellow, raw","","","","capsicum annuum",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1231","chillies and peppers, green (capsicum spp. and pimenta spp.)","1231.02",NA,"capsicum, red, raw","","","","capsicum annuum",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1241.9","other beans, green","1290.9.06",NA,"taro leaves, fresh, raw","","","","colocasia esculenta",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1241.9","other beans, green","1290.9.05",NA,"cow pea leaves, fresh, raw","","","","vigna unguiculata",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1241.9","other beans, green","1241.9.02",NA,"green beans, fresh, raw","","","","phaseolus vulgaris",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1213","cauliflowers and broccoli","1213.02",NA,"broccoli, fresh, raw","","","","brassica oleracea var. italica",NA
+"FV","Fruits and Vegetables",2625,"fruits, other and products","1319","other tropical fruits, n.e.c.","1319.02",NA,"passion fruit, dark purple skin, fresh, raw","Fruit, tropical fresh nes (603)","FAO (2022). Supply Utilization Accounts. Accessed last on 2022-07-22. https://www.fao.org/faostat/en/#data/SCL","","passiflora edulis",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.9","other vegetables, fresh n.e.c.","1290.9.02",NA,"sweet potato leaves, fresh, raw",NA,NA,NA,NA,NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.9","other vegetables, fresh n.e.c.","1290.9.03",NA,"coriander leaves, fresh, raw",NA,NA,NA,"coriandrum sativum",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1290.9","other vegetables, fresh n.e.c.","1290.9.04",NA,"celery, fresh, raw",NA,NA,NA,"apium graveolens",NA
+"FV","Fruits and Vegetables",2605,"vegetables, other and products","1235","pumpkins, squash and gourds","1235.04",NA,"courgette, green, fresh, raw","also called zucchini, baby marrow, summer squash","","","cucurbita pepo var. Cylindrica",NA
+"OT","Other foods",2542,"sugar (raw equivalent) and products","2351F","raw cane or beet sugar (centrifugal only)","2351F.01",NA,"sugar, brown","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1657","ginger, raw","1657.01",NA,"ginger, fresh, raw","","","","zingiber officinale",NA
+"AP","Animal Products",2737,"fats, animals, raw and products","F1243","fat preparations n.e.c.","F1243.01",NA,"vegetable, fat","","","",NA,NA
+"OT","Other foods",2635,"tea (including mate) and products","23914","extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté","23914.03",NA,"tea with milk","","","",NA,NA
+"OT","Other foods",2645,"spices, other and products","1699","other stimulant, spice and aromatic crops, n.e.c. ","1699.10",NA,"curry powder","","","",NA,NA
+"OT","Other foods",2560,"coconuts (including copra) and products","1460","coconuts, in shell","1460.02",NA,"coconut, inmature, fresh, raw","","","","cocos nucifera",NA
+"AP","Animal Products",2737,"fats, animals, raw and products","F1243","fat preparations n.e.c.","F1243.02",NA,"Animal, fat","","","",NA,NA
+"RT","Roots and Tubers",2532,"cassava and products","1520.02","cassava, dried","1520.02.01",NA,"cassava, root, dried, raw","","","","manihot esculenta",NA
